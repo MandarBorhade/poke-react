@@ -9,6 +9,7 @@
 
 .pagination-wrapper button {
     width: 100px;
+    color: #1c1c1c;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     border: none;
